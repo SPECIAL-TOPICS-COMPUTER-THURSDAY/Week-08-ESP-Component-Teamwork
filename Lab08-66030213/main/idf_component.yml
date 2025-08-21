@@ -1,0 +1,12 @@
+dependencies:
+  Lab08-Display-Components:
+    git: 
+      https://github.com/senashino/Lab08-Display-Components.git
+
+  lab08_Sensors_Components:
+    git: 
+      https://github.com/Jaobie-BN/lab08_Sensors_Components.git
+  
+  Lab08-LED-Components:
+    git:
+      https://github.com/Suwaphat04/Lab08-LED-Components.git
