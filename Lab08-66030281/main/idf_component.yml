@@ -1,0 +1,12 @@
+#idf_component.yml
+dependencies:
+  Lab08-LED-Components:
+    git:
+      https://github.com/jamelswift/LED08.git
+  Lab08-Display-Components:
+    git: 
+      https://github.com/mamSupat/Display
+
+  lab08_Sensors_Components:
+    git: 
+      https://github.com/PhumAkrthum/sensor03.git
