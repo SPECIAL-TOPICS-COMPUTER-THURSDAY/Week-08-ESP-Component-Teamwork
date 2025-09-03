@@ -25,3 +25,4 @@
 จะเห็นรายละเอียดของการใช้ code และ data จากไฟล์ใน component
 ตัวอย่าง idf.py size-files | grep sensor
 ```
+![alt text](image.png)
